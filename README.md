@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsHyde2009
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Python for data analysis and machine learning
-- 💞️ I’m looking to collaborate on data science-related open source projects
+- 🔨 I’m looking to collaborate on data science-related open source projects
 - 📫 How to reach me (email me on alejandroibanezcoedo2009@gmail.com)
